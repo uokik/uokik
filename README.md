@@ -1,1 +1,1 @@
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=szzok&langs_count=8&layout=compact&theme=dracula" width="400" hspace="10" /><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F0FF&width=400&height=70&lines=wiwiwi;+wewewe;wiwiwi" hspace="10" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=szzok&langs_count=8&layout=compact&theme=dracula" width="400" hspace="10" />
