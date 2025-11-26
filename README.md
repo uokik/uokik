@@ -1,1 +1,1 @@
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=szzok&langs_count=8&layout=compact&theme=dracula"/>
+<img src="https://metrics.lecoq.io/szzok?template=classic&base=header&languages=1&languages.limit=8&languages.colors=github" alt="stats"/>
